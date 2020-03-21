@@ -1,0 +1,2 @@
+name=G, surname=P, age=18.5, favourite color=ORANGE
+name=D, surname=A, age=17.0, favourite color=ORANGE
